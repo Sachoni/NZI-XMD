@@ -15182,10 +15182,11 @@
 
 
 
+  
 
 {
   
-  "name": "BMW MD",
+  "name": "Nzi-BOT MD",
   "description": "Best Whatsapp bot made by Ibrahim Adams",
   "logo":"https://telegra.ph/file/fd124f7e9271111c3bcc1.jpg",
   "keywords": [
@@ -15206,17 +15207,17 @@
     },
     "AUTO_STATUS_SEEN": {
       "description": "Enter true for autoview status. no for no",
-      "required": false,
+      "required": true,
       "value": ""
     },
     "AUTO_READ": {
       "description": "Enter true for autoread messages. no for no",
-      "required": false,
+      "required": true,
       "value": ""
     },
     "AUTO_TYPING": {
       "description": "Enter true for autotype. no for no",
-      "required": false,
+      "required": true,
       "value": ""
     },
     "AUTO_RECORDING": {
@@ -15226,7 +15227,7 @@
     },
     "ALWAYS_ONLINE": {
       "description": "Enter it true if you want bot to show always online",
-      "required": false,
+      "required": true,
       "value": ""
     },
     "AUTO_BLOCK": {
