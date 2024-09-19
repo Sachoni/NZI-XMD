@@ -15173,8 +15173,13 @@
 
 
 <p align="center">  
-  <a href="https://Images/Screenshot_20240919_190511_CapCut.jpg">
-    <img alt="secktor docs" height="300" src="https://tImages/Screenshot_20240919_190511_CapCut.jpg">
+<h1 align="center"> Nzi-AI_360-V16</h1> 
+<p align="center">
+  <a href="">
+    <img alt="Nzi-AI_360-v16" height="400" src="/Images/Screenshot_20240919_190511_CapCut.jpg">
+  </a>
+</p>
+<p align="center"> Integrated AI bot with rich features. </p>
     <h1 align="center"> Nzi-BOT By Mark</h1>
   </a>
 </p>  
